@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="redisweb">
+    <output-path>$PROJECT_DIR$/out/artifacts/redisweb</output-path>
+    <root id="archive" name="redisweb.war">
+      <element id="javaee-facet-resources" facet="atguigu-bigdata-redis-web/web/Web" />
+    </root>
+  </artifact>
+</component>

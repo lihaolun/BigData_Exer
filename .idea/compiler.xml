@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="atguigu-bigdata-azkaban" />
+        <module name="atguigu-bigdata-flume" />
+        <module name="atguigu-bigdata-hbase" />
+        <module name="atguigu-bigdata-hbase-ext" />
+        <module name="atguigu-bigdata-hbase-mr" />
+        <module name="atguigu-bigdata-hbase-mr1" />
+        <module name="atguigu-bigdata-kafka" />
+        <module name="atguigu-bigdata-project-common" />
+        <module name="atguigu-bigdata-project-weibo" />
+        <module name="atguigu-bigdata-redis-web" />
+        <module name="atguigu-bigdata-scala" />
+        <module name="ct-analysis" />
+        <module name="ct-common" />
+        <module name="ct-consumer" />
+        <module name="ct-consumer-coprocesser" />
+        <module name="ct-producer" />
+        <module name="ct-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
